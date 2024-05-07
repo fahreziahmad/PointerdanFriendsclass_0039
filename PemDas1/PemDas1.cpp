@@ -22,4 +22,4 @@ int main() {
 	pMhs->showNim();
 	return 0;
 }
- // S E L E S A
+ // S E L E S A I
